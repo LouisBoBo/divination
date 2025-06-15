@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "Dispatch List",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "mescroll-uni": "/uni_modules/mescroll-uni/components/mescroll-uni/mescroll-uni",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-loading-icon": "/uni_modules/uview-ui/components/u-loading-icon/u-loading-icon"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="ch-title ch-flex data-v-382536a0" style="{{(styles)}}"><view class="ch-flex-1 data-v-382536a0"><view class="ch-title-content data-v-382536a0"><view class="line data-v-382536a0" style="{{('background-color:'+this.linecolor)}}"></view>{{title+''}}</view></view><slot name="right"></slot></view>

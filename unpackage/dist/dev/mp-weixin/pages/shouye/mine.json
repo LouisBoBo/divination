@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的",
+  "transparentTitle": "always",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal"
+  }
+}

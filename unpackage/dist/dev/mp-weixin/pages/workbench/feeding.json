@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "feeding",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "ch-title": "/components/ch-title/ch-title",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

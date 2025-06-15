@@ -1,0 +1,14 @@
+{
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "disableScroll": false,
+  "navigationBarTitleText": "Workbench",
+  "usingComponents": {
+    "u-collapse": "/uni_modules/uview-ui/components/u-collapse/u-collapse",
+    "u-collapse-item": "/uni_modules/uview-ui/components/u-collapse-item/u-collapse-item",
+    "ch-title": "/components/ch-title/ch-title",
+    "u-grid": "/uni_modules/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uni_modules/uview-ui/components/u-grid-item/u-grid-item",
+    "u--image": "/uni_modules/uview-ui/components/u--image/u--image"
+  }
+}

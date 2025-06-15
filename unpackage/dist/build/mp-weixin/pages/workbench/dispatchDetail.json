@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "Dispatch Details",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-line-progress": "/uni_modules/uview-ui/components/u-line-progress/u-line-progress",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-subsection": "/uni_modules/uview-ui/components/u-subsection/u-subsection",
+    "u-tabs": "/uni_modules/uview-ui/components/u-tabs/u-tabs",
+    "u-grid": "/uni_modules/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uni_modules/uview-ui/components/u-grid-item/u-grid-item"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "Order Transfer",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "ch-title": "/components/ch-title/ch-title",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  }
+}

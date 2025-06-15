@@ -1,0 +1,1 @@
+<view class="data-v-7913281a"><web-view src="{{webUrl[page]}}" allow="*" class="data-v-7913281a"></web-view></view>

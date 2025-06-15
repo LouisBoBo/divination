@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/ch-right-header/ch-right-header"],{"3af9":function(n,e,t){"use strict";var u=t("786b"),i=t.n(u);i.a},"3e40":function(n,e,t){"use strict";t.d(e,"b",(function(){return i})),t.d(e,"c",(function(){return a})),t.d(e,"a",(function(){return u}));var u={uNavbar:function(){return Promise.all([t.e("common/vendor"),t.e("uni_modules/uview-ui/components/u-navbar/u-navbar")]).then(t.bind(null,"65b0"))},uIcon:function(){return Promise.all([t.e("common/vendor"),t.e("uni_modules/uview-ui/components/u-icon/u-icon")]).then(t.bind(null,"8d70"))}},i=function(){var n=this,e=n.$createElement;n._self._c;n._isMounted||(n.e0=function(e){return n.$nav.to(n.navPath)})},a=[]},"4fde":function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var u={name:"ch-right-header",props:{title:String,path:String},data:function(){return{navTitle:null,navPath:null}},watch:{title:{handler:function(n,e){n&&(this.navTitle=n)},deep:!0,immediate:!0},path:{handler:function(n,e){n&&(this.navPath=n)},deep:!0,immediate:!0}}};e.default=u},"786b":function(n,e,t){},c492:function(n,e,t){"use strict";t.r(e);var u=t("4fde"),i=t.n(u);for(var a in u)["default"].indexOf(a)<0&&function(n){t.d(e,n,(function(){return u[n]}))}(a);e["default"]=i.a},d13b:function(n,e,t){"use strict";t.r(e);var u=t("3e40"),i=t("c492");for(var a in i)["default"].indexOf(a)<0&&function(n){t.d(e,n,(function(){return i[n]}))}(a);t("3af9");var r=t("f0c5"),o=Object(r["a"])(i["default"],u["b"],u["c"],!1,null,"1d2111bd",null,!1,u["a"],void 0);e["default"]=o.exports}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/ch-right-header/ch-right-header-create-component',
+    {
+        'components/ch-right-header/ch-right-header-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("d13b"))
+        })
+    },
+    [['components/ch-right-header/ch-right-header-create-component']]
+]);

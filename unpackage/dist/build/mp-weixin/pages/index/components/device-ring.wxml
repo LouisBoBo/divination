@@ -1,0 +1,1 @@
+<view style="{{('height:'+this.height+'upx')}}" class="data-v-2d9c371f"><qiun-data-charts vue-id="943e9f3c-1" type="ring" opts="{{opts}}" chartData="{{chartData}}" class="data-v-2d9c371f" bind:__l="__l"></qiun-data-charts></view>

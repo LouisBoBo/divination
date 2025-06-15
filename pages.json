@@ -1,0 +1,197 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uni_modules/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/shouye/message",
+			"style": {
+				"navigationBarTitleText": "Luna老师",
+				"transparentTitle": "always",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#F3F7F9"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white",
+				"enablePullDownRefresh": false,
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/workbench/index",
+			"style": {
+				"navigationBarTextStyle": "white",
+				"enablePullDownRefresh": false,
+				"disableScroll": false,
+				"navigationBarTitleText": "%workbench.name%",
+				"app-plus": {
+					"titleNView": {
+						"splitLine": {
+							"color": "#F8F8F8",
+							"height": "1px"
+						},
+						"buttons": [{
+							"text": "管理",
+							"fontSize": "13px",
+							"color": "#ffffff",
+							"float": "right",
+							"width": "34px",
+							"fontWeight": "bold"
+						}]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/index/detail",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "登录",
+				"enablePullDownRefresh": false,
+				"disableScroll": true,
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/login/server",
+			"style": {
+				"navigationBarTitleText": "%server.setting%",
+				"enablePullDownRefresh": false
+			}
+		},
+
+
+		{
+			"path": "pages/workbench/machineList",
+			"style": {
+				"navigationBarTitleText": "机器状态",
+				"enablePullDownRefresh": false,
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/workbench/feeding",
+			"style": {
+				"navigationBarTitleText": "%feeding%",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/workbench/patrolMachine",
+			"style": {
+				"navigationBarTitleText": "%patrol.machine%",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/workbench/dispatchList",
+			"style": {
+				"navigationBarTitleText": "%dispatch.list%",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/workbench/dispatchDetail",
+			"style": {
+				"navigationBarTitleText": "%dispatch.detail%",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/workbench/dispatchTransfer",
+			"style": {
+				"navigationBarTitleText": "%order.transfer%",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/workbench/dispatchTransferList",
+			"style": {
+				"navigationBarTitleText": "%order.transfer%",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/shouye/shouye",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/shouye/selectBrand",
+			"style": {
+				"navigationBarTitleText": "请选择参考品牌",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/shouye/uploadReference",
+			"style": {
+				"navigationBarTitleText": "上传参考",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/shouye/residualInterest",
+			"style": {
+				"navigationBarTitleText": "剩余权益",
+				"enablePullDownRefresh": false,
+				"transparentTitle": "always"
+			}
+
+		}, {
+			"path": "pages/shouye/accountEquity",
+			"style": {
+				"navigationBarTitleText": "账户权益",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/shouye/mine",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"transparentTitle": "always",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "luna",
+		"navigationBarBackgroundColor": "#F3F7F9",
+		"backgroundColor": "#F3F7F9"
+
+	},
+	"tabBar": {
+		"color": "#797979",
+		"selectedColor": "#FF6600",
+		"borderStyle": "none",
+		"backgroundColor": "#F3F7F9",
+		"list": [{
+			"pagePath": "pages/shouye/message",
+			"iconPath": "static/tabbar/tab_msg_def@2x.png",
+			"selectedIconPath": "static/tabbar/tab_msg_sel@2x.png",
+			"text": "",
+			"visible": true
+		}, {
+			"pagePath": "pages/shouye/mine",
+			"iconPath": "static/tabbar/tab_user_def@2x.png",
+			"selectedIconPath": "static/tabbar/tab_user_sel@2x.png",
+			"text": "",
+			"visible": true
+		}]
+	},
+	"uniIdRouter": {}
+}

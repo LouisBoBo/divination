@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/shouye/message",
+    "pages/index/index",
+    "pages/workbench/index",
+    "pages/index/detail",
+    "pages/login/index",
+    "pages/login/server",
+    "pages/workbench/machineList",
+    "pages/workbench/feeding",
+    "pages/workbench/patrolMachine",
+    "pages/workbench/dispatchList",
+    "pages/workbench/dispatchDetail",
+    "pages/workbench/dispatchTransfer",
+    "pages/workbench/dispatchTransferList",
+    "pages/shouye/shouye",
+    "pages/shouye/selectBrand",
+    "pages/shouye/selectClass",
+    "pages/shouye/uploadReference",
+    "pages/shouye/residualInterest",
+    "pages/shouye/understand",
+    "pages/shouye/accountEquity",
+    "pages/shouye/designDetails",
+    "pages/shouye/Feedback",
+    "pages/shouye/mine",
+    "pages/shouye/detailsDesign"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "aili",
+    "navigationBarBackgroundColor": "#EC3A76",
+    "backgroundColor": "#F2F2F2"
+  },
+  "tabBar": {
+    "color": "#797979",
+    "selectedColor": "#FF6600",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/shouye/message",
+        "iconPath": "static/tabbar/tab_msg_def@2x.png",
+        "selectedIconPath": "static/tabbar/tab_msg_sel@2x.png",
+        "text": "",
+        "visible": true
+      },
+      {
+        "pagePath": "pages/shouye/mine",
+        "iconPath": "static/tabbar/tab_user_def@2x.png",
+        "selectedIconPath": "static/tabbar/tab_user_sel@2x.png",
+        "text": "",
+        "visible": true
+      }
+    ]
+  },
+  "usingComponents": {}
+}

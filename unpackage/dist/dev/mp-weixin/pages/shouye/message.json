@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "Luna老师",
+  "transparentTitle": "always",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup"
+  }
+}

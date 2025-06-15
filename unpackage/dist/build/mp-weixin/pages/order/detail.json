@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "Work Order Details",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-line-progress": "/uni_modules/uview-ui/components/u-line-progress/u-line-progress",
+    "u-loading-icon": "/uni_modules/uview-ui/components/u-loading-icon/u-loading-icon"
+  }
+}

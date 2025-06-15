@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "Switch language",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-radio-group": "/uni_modules/uview-ui/components/u-radio-group/u-radio-group",
+    "u-cell-group": "/uni_modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-gap": "/uni_modules/uview-ui/components/u-gap/u-gap",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-radio": "/uni_modules/uview-ui/components/u-radio/u-radio"
+  }
+}

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-shouye-selectBrand"],{"92a4":function(o,e,n){"use strict";n.r(e);var s=n("f0c5"),a=Object(s["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);e["default"]=a.exports}}]);

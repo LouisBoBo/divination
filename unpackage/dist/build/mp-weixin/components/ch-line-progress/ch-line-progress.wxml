@@ -1,0 +1,1 @@
+<view class="data-v-79152152"><view class="line-custom-progress data-v-79152152" style="{{(wrapStyle)}}"><view class="lineProgress data-v-79152152" style="{{$root.s0}}"></view><slot name="linetips"></slot></view></view>

@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-workbench-dispatchTransferList"],{"631c":function(n,o,i){"use strict";i.r(o);var s=i("f0c5"),c=Object(s["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);o["default"]=c.exports}}]);

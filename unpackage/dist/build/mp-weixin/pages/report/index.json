@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "Report",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "ch-circle-progress": "/components/ch-circle-progress/ch-circle-progress",
+    "ch-line-progress": "/components/ch-line-progress/ch-line-progress",
+    "ch-title": "/components/ch-title/ch-title",
+    "u-line-progress": "/uni_modules/uview-ui/components/u-line-progress/u-line-progress",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-cell-group": "/uni_modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell": "/uni_modules/uview-ui/components/u-cell/u-cell",
+    "u-grid": "/uni_modules/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uni_modules/uview-ui/components/u-grid-item/u-grid-item"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "Work order monitoring",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "ch-right-header": "/components/ch-right-header/ch-right-header",
+    "mescroll-uni": "/uni_modules/mescroll-uni/components/mescroll-uni/mescroll-uni",
+    "u-line-progress": "/uni_modules/uview-ui/components/u-line-progress/u-line-progress",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-loading-icon": "/uni_modules/uview-ui/components/u-loading-icon/u-loading-icon"
+  }
+}

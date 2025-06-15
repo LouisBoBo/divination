@@ -1,0 +1,1 @@
+<view class="page bgwhite data-v-581c7d12"><view class="gaugeWrap data-v-581c7d12"><qiun-data-charts vue-id="6ac2e0f8-1" type="gauge" opts="{{opts}}" chartData="{{chartData}}" canvas2d="{{true}}" class="data-v-581c7d12" bind:__l="__l"></qiun-data-charts></view><view class="radius btn oee data-v-581c7d12">{{"OEE/"+oeeName}}</view></view>

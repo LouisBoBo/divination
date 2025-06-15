@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "机器状态",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "ch-right-header": "/components/ch-right-header/ch-right-header",
+    "mescroll-uni": "/uni_modules/mescroll-uni/components/mescroll-uni/mescroll-uni",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-loading-icon": "/uni_modules/uview-ui/components/u-loading-icon/u-loading-icon",
+    "status-header": "/components/status-header/status-header"
+  }
+}

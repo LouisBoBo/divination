@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "设计细节",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "tag-view": "/components/tag-view/tag-view",
+    "u-overlay": "/uni_modules/uview-ui/components/u-overlay/u-overlay",
+    "u-loading-icon": "/uni_modules/uview-ui/components/u-loading-icon/u-loading-icon"
+  }
+}
