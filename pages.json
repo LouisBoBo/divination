@@ -130,13 +130,6 @@
 			}
 
 		}, {
-			"path": "pages/shouye/selectBrand",
-			"style": {
-				"navigationBarTitleText": "请选择参考品牌",
-				"enablePullDownRefresh": false
-			}
-
-		}, {
 			"path": "pages/shouye/uploadReference",
 			"style": {
 				"navigationBarTitleText": "上传参考",
@@ -148,13 +141,6 @@
 				"navigationBarTitleText": "剩余权益",
 				"enablePullDownRefresh": false,
 				"transparentTitle": "always"
-			}
-
-		}, {
-			"path": "pages/shouye/accountEquity",
-			"style": {
-				"navigationBarTitleText": "账户权益",
-				"enablePullDownRefresh": false
 			}
 
 		}, {
